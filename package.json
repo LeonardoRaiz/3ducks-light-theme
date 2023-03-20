@@ -6,6 +6,11 @@
   "engines": {
     "vscode": "^1.76.0"
   },
+  "icon": "duck.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeonardoRaiz/3ducks-light-theme"
+  },
   "categories": [
     "Themes"
   ],
@@ -17,5 +22,13 @@
         "path": "./themes/3Ducks Light Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "Light",
+    "Best light",
+    "theme",
+    "light theme",
+    "ducks",
+    "Leonardo"
+  ]
 }
