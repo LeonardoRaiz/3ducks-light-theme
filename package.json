@@ -1,0 +1,21 @@
+{
+  "name": "3ducks-light-theme",
+  "displayName": "3Ducks Light Theme",
+  "description": "Light theme for 3Ducks!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "3Ducks Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/3Ducks Light Theme-color-theme.json"
+      }
+    ]
+  }
+}
