@@ -2,6 +2,7 @@
   "name": "3ducks-light-theme",
   "displayName": "3Ducks Light Theme",
   "description": "Light theme for 3Ducks!",
+  "publisher": "leonardoraiz",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.76.0"
